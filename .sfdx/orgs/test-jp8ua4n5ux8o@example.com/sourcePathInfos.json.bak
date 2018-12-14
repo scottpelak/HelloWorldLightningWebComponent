@@ -1,0 +1,152 @@
+[
+    [
+        "C:\\Users\\scott\\Documents\\vscode\\HelloWorldLightningWebComponent\\force-app",
+        {
+            "sourcePath": "C:\\Users\\scott\\Documents\\vscode\\HelloWorldLightningWebComponent\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544725241914,
+            "changeTime": 1544725241914,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\scott\\Documents\\vscode\\HelloWorldLightningWebComponent\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\scott\\Documents\\vscode\\HelloWorldLightningWebComponent\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544725241914,
+            "changeTime": 1544725241914,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\scott\\Documents\\vscode\\HelloWorldLightningWebComponent\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\scott\\Documents\\vscode\\HelloWorldLightningWebComponent\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544725241915,
+            "changeTime": 1544725241915,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\scott\\Documents\\vscode\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\scott\\Documents\\vscode\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544725241915,
+            "changeTime": 1544725241915,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\scott\\Documents\\vscode\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\scott\\Documents\\vscode\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544733346730,
+            "changeTime": 1544733346730,
+            "contentHash": "faff82b8edb19af39d7a6c08271b6498fd431a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\scott\\Documents\\vscode\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloWorld",
+        {
+            "sourcePath": "C:\\Users\\scott\\Documents\\vscode\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloWorld",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544733346741,
+            "changeTime": 1544733346741,
+            "contentHash": "c4f5c53c9e3fa98e7b41f54b72a11b17045711fb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\scott\\Documents\\vscode\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
+        {
+            "sourcePath": "C:\\Users\\scott\\Documents\\vscode\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
+            "isDirectory": false,
+            "size": 311,
+            "modifiedTime": 1544733561049,
+            "changeTime": 1544733561049,
+            "contentHash": "7370b68224894ea36930868027b9816896bb817c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\scott\\Documents\\vscode\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js",
+        {
+            "sourcePath": "C:\\Users\\scott\\Documents\\vscode\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js",
+            "isDirectory": false,
+            "size": 216,
+            "modifiedTime": 1544733604844,
+            "changeTime": 1544733604844,
+            "contentHash": "6dba63f70dd49d8f15309a6bc8327d658b6b828f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\scott\\Documents\\vscode\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\scott\\Documents\\vscode\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js-meta.xml",
+            "isDirectory": false,
+            "size": 390,
+            "modifiedTime": 1544733645569,
+            "changeTime": 1544733645569,
+            "contentHash": "87ddd70ef542ebd638895b603d55e82cf64bbfec",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\scott\\Documents\\vscode\\HelloWorldLightningWebComponent",
+        {
+            "sourcePath": "C:\\Users\\scott\\Documents\\vscode\\HelloWorldLightningWebComponent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544725267795,
+            "changeTime": 1544725267795,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
